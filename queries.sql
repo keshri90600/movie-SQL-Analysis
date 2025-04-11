@@ -41,3 +41,4 @@ SELECT *, YEAR(CURDATE()) - birth_year AS age FROM actors;
 
 -- Profit analysis
 SELECT *, (revenue - budget) AS profit FROM moviesdb.financials;
+
