@@ -1,4 +1,4 @@
--- 🎬 Movie Data Analysis Queries
+-- 🎬 Movie Data Analysis Queries .
 
 SELECT * FROM moviesdb.movies;
 SELECT * FROM moviesdb.movies WHERE industry = 'bollywood';
